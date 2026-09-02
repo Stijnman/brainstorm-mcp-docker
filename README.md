@@ -3,6 +3,7 @@
 
 [![npm](https://img.shields.io/npm/v/brainstorm-mcp)](https://www.npmjs.com/package/brainstorm-mcp)
 [![npm downloads](https://img.shields.io/npm/dm/brainstorm-mcp)](https://www.npmjs.com/package/brainstorm-mcp)
+[![license](https://img.shields.io/npm/l/brainstorm-mcp)](https://github.com/spranab/brainstorm-mcp/blob/main/LICENSE)
 [![IdeaCred](https://ideacred.com/api/badge/spranab/brainstorm-mcp)](https://ideacred.com/profile/spranab)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Launch-orange)](https://www.producthunt.com/products/brainstorm-3?launch=brainstorm-4)
 
